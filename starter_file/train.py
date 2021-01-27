@@ -23,7 +23,7 @@ def clean_data(data):
     return x_df,y_df
 
 # data = pd.read_csv("heart_failure_clinical_records_dataset.csv")
-data = "insert raw url here"
+data = "https://raw.githubusercontent.com/Ogbuchi-Ikechukwu/Azure-ML-Nanodegree-Capstone/master/starter_file/train_data.csv"
 
 ds = Dataset.Tabular.from_delimited_files(data)
 
