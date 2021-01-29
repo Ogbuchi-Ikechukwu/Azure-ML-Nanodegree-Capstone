@@ -209,7 +209,7 @@ Model was successfuly deployed and could be interacted with through the provisio
 ```
 The output to this request returned 3,070 results as numpy arrays which were shown in the notebook file.
 ## Screen Recording
-Here is a link to my screen recording of the project: https://youtu.be/0vqXWCdNdJA
+Here is a link to my screen recording of the project: https://youtu.be/-QXlHLK3jaA
 
 ## Future Improvements
 
