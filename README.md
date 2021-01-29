@@ -10,7 +10,7 @@ I used both AutoML and HyperDrive to successfully conclude this project. I compa
 
 
 ## Dataset
-The Dataset I chose was from this competition, [Zindi Africa Insurance Prediction] (https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/leaderboard)
+The Dataset I chose was from this competition, [Zindi Africa Insurance Prediction](https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/leaderboard).
 
 It contains 7160 rows and 15 Columns. Description of Variables are as follows:
 
