@@ -170,6 +170,15 @@ Best Runs
 <img src="screenshots/hyp1.png">
 <img src="screenshots/hyp2.png">
 
+**RunDetails added**
+<img src="screenshots/hyper_rundetail.png">
+<img src="screenshots/hyper_rundetail1.png">
+<img src="screenshots/hyper_rundetail2.png">
+<img src="screenshots/hyper_rundetail3.png">
+
+**Best Model ID with Parameters Tuned**
+<img src="screenshots/params.png">
+<img src="screenshots/params1.png">
 
 ## Model Deployment
 
@@ -201,5 +210,17 @@ Model was successfuly deployed and could be interacted with through the provisio
 The output to this request returned 3,070 results as numpy arrays which were shown in the notebook file.
 ## Screen Recording
 Here is a link to my screen recording of the project: https://youtu.be/0vqXWCdNdJA
+
+## Future Improvements
+
+To improve this project in future, I can make the following improvements:
+
+* I can change the primary metric I have selected from "Accuracy" to "AUC Weighted" or F1 Score to monitor any improvements
+* I can change the number of n_folds cross validation to something higher tha the value of 4
+* I can choose another Sk Learn Classifier rather than the Logistic Regression I had chosen for simplicity. Could apply K Nearest neighbors Classifier or XGBoost
+* I can get additional data to augment the available one used to create the model
+* I could choose another sampling policy rather than the Random Sampler I have chosen, Grid search could be better
+* The chosen parameter values for "--C" and "-max_iter" could be changed, so the training can iterate for longer periods which may lead to a more accurate model
+
 
 
